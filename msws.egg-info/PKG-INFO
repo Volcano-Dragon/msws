@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: msws
+Version: 0.0.3
+Summary: Python package for generating the random number using Middle Square Weyl sequence
+Home-page: https://github.com/Volcano-Dragon/msws
+Author: Garv Saxena
+Author-email: garvsaxena185@gmail.com
+Keywords: PRNG,MSWS,Weyl sequence,Middle square
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+
+The msws package is designed to generate random numbers using the Middle Square Weyl sequence algorithm.
+This algorithm offers a methodical approach to producing pseudo-random numbers with a focus on simplicity and efficiency.
+The module offers functionalities to both generate random numbers and seed values necessary for the process.
